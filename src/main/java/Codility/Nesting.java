@@ -1,5 +1,8 @@
 package Codility;
 
+/**
+ * @author Agata Stanek - Pietrucha
+ */
 public class Nesting {
     public int solution(String S) {
         if (S == null || S.equals("")) {
